@@ -1,0 +1,59 @@
+
+
+html{
+	scroll-behavior: smooth;
+}
+
+h2{
+	color: #de8c85;
+}
+
+
+.naoentra{
+	margin-top: 6%;
+}
+
+.container{
+	background-color: #fef4ef;
+}
+
+.tudo{
+	background-color: #f9eae0;
+}
+
+#sobre{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.desc{
+	
+	
+	margin-top: 10px;
+	font-size: 80%;
+}
+
+.paragrafo{
+	text-align: justify;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.paragrafo2{
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+.frase{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+
+.img2{
+	align-items: center;
+}
