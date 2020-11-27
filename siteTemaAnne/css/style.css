@@ -1,0 +1,203 @@
+
+
+html{
+	scroll-behavior: smooth;
+}
+
+h2{
+	color: #de8c85;
+}
+
+h4{
+	color: #bc5a51;
+}
+.naoentra{
+	margin-top: 6%;
+}
+
+.container{
+	background-color: #fef4ef;
+}
+
+.tudo{
+	background-color: #f9eae0;
+}
+
+#sobre{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.desc{
+	
+	
+	margin-top: 10px;
+	font-size: 80%;
+}
+
+.paragrafo{
+	text-align: justify;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.paragrafo2{
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+.frase{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+
+.img2{
+	align-items: center;
+}
+
+.textoad{
+	width: 100%;
+}
+
+#filmes img{
+	padding: 20px;
+	align-items: center;
+}
+
+#filmes h4{
+	
+	text-align: center;
+}
+
+.pFilmes{
+	text-align: justify;
+
+}
+
+.pFilmes{
+	text-align: center;
+}
+
+.textoad{
+	padding-top: 20px;
+	text-align: justify;
+	font-size: 0.80em;
+}
+
+.imgFil{
+	align-items: center;
+}
+
+.trailer{
+	padding: 20px;
+}
+
+a{
+	color:#de8c85; 
+}
+
+.textoimp{
+	padding: 20px;
+	text-align: justify;
+}
+
+#obrigada{
+	background-color: #f9eae0;
+}
+
+#contato{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	background-color: #de8c85;
+
+}
+
+#filmes .img{
+	transition: all 0.5s;
+    cursor: pointer;
+}
+
+#filmes .img:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+
+
+
+#contato div{
+	margin-bottom: 20px;
+}
+
+#contato h2{
+	margin-left: 20px;
+	margin-width:20px;
+	margin-bottom: 20px;
+	font-size: 1.5em;
+	text-align: center;
+	color:#f9eae0;
+	margin-top: 20px;
+}
+
+#contato > p{
+	text-align: center;
+	font-size: 1em;
+	margin-bottom: 30px;
+	color: #f9eae0;
+}
+
+#contato a{
+	text-decoration: none;
+	color: #e8d2d1;
+	font-family: Caveat;
+	font-size: 1em;
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	background-color: #f4d9c6 ;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+footer p{
+	color: #bc5a51;
+
+}
+
+@media screen and (min-width: 768px){
+
+ #contato{
+ 	flex-direction: row;
+ 	flex-wrap: wrap;
+ 	justify-content: space-around;
+ 	max-width: 100%;
+ 	margin: 0 auto;
+ 	text-align: center;
+ 	max-height: 40vh;
+ }
+
+ #contato h2{
+ 	text-align: center;
+ 	width: 100%;
+ }
+
+ #contato > p{
+ 	text-align: center;
+ 	width: 100%;
+ 	margin-bottom: 20px;
+ }
+ #contato p{
+ 	text-align: center;
+ 	margin-bottom: 20px;
+ }
+
+}
