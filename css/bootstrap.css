@@ -2156,6 +2156,7 @@ textarea.form-control {
 
 .form-group {
   margin-bottom: 1rem;
+  padding: 10px;
 }
 
 .form-text {
@@ -2541,15 +2542,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  color: #fef4ef;
+  background-color: #de8c85;
+  border-color: #fef4ef;
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  color: #de8c85;
+  background-color: #fef4ef;
+  border-color: #de8c85;
 }
 
 .btn-primary:focus, .btn-primary.focus {
